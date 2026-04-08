@@ -1,0 +1,1 @@
+This approach is language-agnostic, Hadoop Streaming allows using Python instead of Java.

@@ -1,0 +1,10 @@
+# No external dependencies required
+# This project uses only Python Standard Library modules:
+# - xmlrpc.server (for RPC server)
+# - xmlrpc.client (for RPC client) 
+# - math (for factorial calculation)
+# - sys (for command-line arguments)
+
+# Tested with Python 3.6+
+# Requirements:
+# - Python 3.6 or higher
